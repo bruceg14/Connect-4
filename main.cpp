@@ -22,6 +22,7 @@ void debug(){
     game1.putChecker(1);
     game1.putChecker(1);
     game1.putChecker(1);
+    game1.putChecker(2);
     game1.getBoard();
 
     // test colConnect4

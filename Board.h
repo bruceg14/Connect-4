@@ -22,14 +22,8 @@ public:
     bool diagonalConnect4() const;
     void startGame();
     void process(std::string playerNo1, std::string playerNo2);
-
     void storeGame(std::string player1Name, std::string player2Name);
-
     bool regret1();
-
-
-
-
 
 
 private:

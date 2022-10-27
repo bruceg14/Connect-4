@@ -78,6 +78,7 @@ bool Board::putChecker(int column){
     }
     --column;
     int playerNum;
+
     if(player1 == true){
         playerNum = 1;
     } else{
